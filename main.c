@@ -2,6 +2,7 @@
 #include <stdlib.h>  
 #include <math.h>
 #include <SDL2/SDL.h>
+#include <string.h>
 
 #define STB_IMAGE_IMPLEMENTATION
 #include <stb/stb_image.h>
